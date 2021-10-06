@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Mahmoud Sherbeny! 👋</h2>
 
-**I'm junior iOS software enginner**
+**I'm junior iOS software engineer**
 
 I love sharing my knowledge and experience. I enhance my technical and personal skills to build a strong and highly qualified career in software programming, development and research by working in productive and creative team. 
 

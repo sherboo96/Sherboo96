@@ -4,7 +4,7 @@
 
 I love sharing my knowledge and experience. I enhance my technical and personal skills to build a strong and highly qualified career in software programming, development and research by working in productive and creative team. 
 
-- 🎯 **I’m currently focusing on**: Clean Code and Unit Testion.
+- 🎯 **I’m currently focusing on**: Clean Code and Unit Testing.
 - 🔭 **Also, I’m learning**: Full Stack Development.
 
 <hr/>
